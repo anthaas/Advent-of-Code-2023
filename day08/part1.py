@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from enum import Enum
 
 with open('input.txt') as f:
     parts = f.read().split("\n\n")
